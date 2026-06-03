@@ -52,10 +52,9 @@ With a career built on diverse technical challenges, my core arsenal includes:
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=angeleyesffx&show_icons=true&theme=radial&hide_border=true" alt="Priscilla's GitHub Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=angeleyesffx&layout=compact&theme=radial&hide_border=true" alt="Top Languages" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeleyesffx&theme=radial&hide_border=true" alt="Priscilla's Streak Stats" height="150" />
+  <img src="https://github-profile-summary-cards.verve.ink/api/cards/most-commit-language?username=angeleyesffx&theme=radial" alt="Top Languages" height="150" />
 </p>
-
 ---
 
 ### 🤝 Connect with Me
