@@ -1,4 +1,4 @@
-# Hi there, I'm Priscilla Rodrigues Martins! 👋
+# Hi there, I'm Priscilla Rodrigues Martins! 
 
 ### 🚀 SDET | Software Quality Architect | Senior QA Engineer
 
@@ -47,14 +47,6 @@ With a career built on diverse technical challenges, my core arsenal includes:
 - **Scrum Foundation Professional Certificate (SFPC)**
 - **ITIL 4 Foundation**
 
----
-
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=angeleyesffx&theme=radial&hide_border=true" alt="Priscilla's Streak Stats" height="150" />
-  <img src="https://github-profile-summary-cards.verve.ink/api/cards/most-commit-language?username=angeleyesffx&theme=radial" alt="Top Languages" height="150" />
-</p>
 ---
 
 ### 🤝 Connect with Me
