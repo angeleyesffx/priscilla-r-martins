@@ -20,6 +20,7 @@ With a career built on diverse technical challenges, my core arsenal includes:
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Typescript-339933?style=for-the-badge&logo=typescripts&logoColor=white" alt="Typescript" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" />
   <img src="https://img.shields.io/badge/Playwright-2EAD46?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright" />
   <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
