@@ -4,7 +4,7 @@
 
 I am a highly accomplished **Software Quality Assurance and Test Automation Specialist** with **over 17 years of experience** leading technical strategies, designing test architectures, and driving continuous delivery across robust national and international projects.
 
-My expertise spans building advanced test automation frameworks from scratch for Web, Mobile, and API systems, integrating efficient CI/CD pipelines, and driving Agile/Scrum methodologies as a servant leader. I am deeply passionate about innovation, actively leveraging **Generative AI** (like GitHub Copilot, Gemini, and custom ChatGPT integrations) to optimize automation scalability, reporting accuracy, and team productivity.
+My expertise spans building advanced test automation frameworks from scratch for Web, Mobile, and API systems, integrating efficient CI/CD pipelines, and driving Agile/Scrum methodologies as a servant leader. I am deeply passionate about innovation, actively leveraging **Generative AI** (like GitHub Copilot, Claude, Cursosr, Gemini, and custom ChatGPT integrations) to optimize automation scalability, reporting accuracy, and team productivity.
 
 ---
 
@@ -12,9 +12,9 @@ My expertise spans building advanced test automation frameworks from scratch for
 
 With a career built on diverse technical challenges, my core arsenal includes:
 
-- **Languages & Core Tech:** Python, Node.js, Ruby, Java, Scala, SQL, MongoDB.
+- **Languages & Core Tech:** Python, Typescript, Javascript, Node, Ruby, Java, Scala, SQL, MongoDB.
 - **Automation Frameworks:** Playwright, Selenium, Appium, PyTest, Behave (BDD), Cucumber, Capybara, RestAssured.
-- **API & Performance Testing:** Postman, SoapUI, Gatling, JMeter.
+- **API & Performance Testing:** Postman, Bruno, SoapUI, Gatling, JMeter.
 - **DevOps & CI/CD:** GitHub Actions, Azure DevOps, GitLab CI/CD, Docker, AWS.
 - **Agile & Management Tools:** Jira, TestRail, Zephyr Scale, Confluence, ALM.
 
@@ -33,14 +33,15 @@ With a career built on diverse technical challenges, my core arsenal includes:
 
 ### 🌟 Key Career Highlights & Milestones
 
-- **Senior QA Engineer / SDET @ Motorola Solutions:** Architected robust front-end and back-end end-to-end automation test frameworks utilizing Playwright/Node.js and Appium, completely streamlined with GitHub Actions CI/CD pipelines.
-- **IT Specialist / Software Quality Architect @ AB-Inbev / BEES:** Spearheaded testing frameworks using Python/PyTest, managed complex data ingestion validation, migrated technology layers (MongoDB to CosmosDB), and engineered custom internal ChatGPT prompt integrations.
+- **Senior QA Engineer / SDET @Motorola Solutions:** Architected robust front-end and back-end end-to-end automation test frameworks utilizing Playwright/Node.js and Appium, completely streamlined with GitHub Actions CI/CD pipelines.
+- **IT Specialist / Software Quality Architect @AB-Inbev / BEES:** Spearheaded testing frameworks using Python/PyTest, managed complex data ingestion validation, migrated technology layers (MongoDB to CosmosDB), and engineered custom internal ChatGPT prompt integrations.
 - **Agile & Technical Leadership:** Proven success acting as Systems Development Manager and Scrum Master—shaping high-performing teams, estimating project scopes, mitigating structural risks, and deploying disaster recovery plans for quality systems.
 
 ---
 
 ### 📜 Professional Certifications
 
+- **ISTQB® CT-GenAi** (Certified Tester - Testing with Generative AI)
 - **ISTQB® CT-TAE** (Certified Tester - Test Automation Engineer)
 - **BSTQB® CTFL-AT** (Certified Tester Foundation Level - Agile Tester)
 - **BSTQB® CTFL** (Certified Tester Foundation Level)
